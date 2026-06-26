@@ -1,0 +1,14 @@
+# Core
+Django==6.0.6
+djangorestframework==3.17.1
+djangorestframework-simplejwt==5.5.1
+django-cors-headers==4.9.0
+django-filter==25.2
+
+# Machine learning (job-match recommender + placement-probability model)
+scikit-learn==1.8.0
+numpy==2.4.4
+joblib==1.5.3
+
+# Resume parsing (AI Resume Analysis feature)
+pdfplumber==0.11.9
